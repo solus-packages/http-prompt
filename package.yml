@@ -1,0 +1,29 @@
+name       : http-prompt
+version    : 0.8.0
+release    : 1
+source     :
+    - https://github.com/eliangcs/http-prompt/archive/v0.8.0.tar.gz : c8ff280af7cbce974c35534381d5895bfa5d228e78b84287924e24dcc6fbf017
+license    : MIT
+component  : network.clients
+summary    : An interactive command-line HTTP client featuring autocomplete and syntax highlighting
+description: |
+    An interactive command-line HTTP client featuring autocomplete and syntax highlighting
+builddeps  :
+    - httpie
+    - pygments
+    - python-click
+    - python-parsimonious
+    - python-prompt-toolkit
+    - python-setuptools
+    - python-six
+rundeps    :
+    - httpie
+    - pygments
+    - python-click
+    - python-parsimonious
+    - python-prompt-toolkit
+    - python-six
+setup      : |
+    %python3_setup   
+install    : |
+    %python3_install
