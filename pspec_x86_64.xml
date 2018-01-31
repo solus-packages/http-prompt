@@ -2,8 +2,8 @@
     <Source>
         <Name>http-prompt</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>network.clients</PartOf>
@@ -20,53 +20,53 @@
         <PartOf>network.clients</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt-0.8.0-py3.5.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/cli.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/completer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/completion.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/config.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/contextio.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/defaultconfig.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/execution.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/lexer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/options.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/ordereddict.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/output.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/utils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/__pycache__/xdg.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/cli.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/completer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/completion.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/config.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/context/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/context/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/context/__pycache__/transform.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/context/transform.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/contextio.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/defaultconfig.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/execution.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/lexer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/options.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/ordereddict.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/output.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/http_prompt/xdg.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/cli.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/completer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/completion.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/config.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/contextio.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/defaultconfig.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/execution.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/lexer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/options.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/ordereddict.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/output.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/utils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/xdg.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/cli.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/completer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/completion.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/config.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__pycache__/transform.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/transform.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/contextio.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/defaultconfig.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/execution.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/lexer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/options.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/ordereddict.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/output.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/xdg.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2016-12-27</Date>
+        <Update release="2">
+            <Date>2018-01-31</Date>
             <Version>0.8.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
