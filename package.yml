@@ -1,12 +1,11 @@
 name       : http-prompt
-version    : 0.8.0
-release    : 2
+version    : 0.11.2
+release    : 3
 source     :
-    - https://github.com/eliangcs/http-prompt/archive/v0.8.0.tar.gz : c8ff280af7cbce974c35534381d5895bfa5d228e78b84287924e24dcc6fbf017
+    - https://github.com/eliangcs/http-prompt/archive/v0.11.2.tar.gz : 88db627d7bdd73be0889ac829ce276e4fe42f39a20681b534a9fa731d0aa2e2f
 license    : MIT
 component  : network.clients
-summary    : An interactive command-line HTTP client featuring autocomplete and syntax
-    highlighting
+summary    : An interactive command-line HTTP client featuring autocomplete and syntax highlighting
 description: |
     An interactive command-line HTTP client featuring autocomplete and syntax highlighting
 builddeps  :

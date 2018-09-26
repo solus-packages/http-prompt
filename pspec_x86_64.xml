@@ -2,8 +2,8 @@
     <Source>
         <Name>http-prompt</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>network.clients</PartOf>
@@ -19,13 +19,13 @@
 </Description>
         <PartOf>network.clients</PartOf>
         <Files>
-            <Path fileType="executable">/usr/bin</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.8.0-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="executable">/usr/bin/http-prompt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/cli.cpython-36.pyc</Path>
@@ -37,8 +37,8 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/execution.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/lexer.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/options.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/ordereddict.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/output.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/tree.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/utils.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/xdg.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/cli.py</Path>
@@ -54,19 +54,19 @@
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/execution.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/lexer.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/options.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/ordereddict.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/output.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/tree.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/utils.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/xdg.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2018-01-31</Date>
-            <Version>0.8.0</Version>
+        <Update release="3">
+            <Date>2018-09-26</Date>
+            <Version>0.11.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
