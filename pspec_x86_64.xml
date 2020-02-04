@@ -2,15 +2,15 @@
     <Source>
         <Name>http-prompt</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>network.clients</PartOf>
         <Summary xml:lang="en">An interactive command-line HTTP client featuring autocomplete and syntax highlighting</Summary>
         <Description xml:lang="en">An interactive command-line HTTP client featuring autocomplete and syntax highlighting
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>http-prompt</Name>
@@ -20,53 +20,53 @@
         <PartOf>network.clients</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/http-prompt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt-0.11.2-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/cli.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/completer.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/completion.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/config.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/contextio.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/defaultconfig.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/execution.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/lexer.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/options.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/output.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/tree.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/utils.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/__pycache__/xdg.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/cli.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/completer.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/completion.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/config.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/__pycache__/transform.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/context/transform.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/contextio.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/defaultconfig.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/execution.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/lexer.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/options.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/output.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/tree.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/http_prompt/xdg.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt-0.11.2-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/cli.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/completer.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/completion.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/config.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/contextio.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/defaultconfig.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/execution.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/lexer.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/options.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/output.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/tree.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/utils.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/__pycache__/xdg.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/cli.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/completer.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/completion.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/config.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/context/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/context/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/context/__pycache__/transform.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/context/transform.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/contextio.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/defaultconfig.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/execution.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/lexer.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/options.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/output.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/tree.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/http_prompt/xdg.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-09-26</Date>
+        <Update release="4">
+            <Date>2020-01-27</Date>
             <Version>0.11.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
